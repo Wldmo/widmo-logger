@@ -1,4 +1,4 @@
-# widmo-logger ??
+# widmo-logger 
 
 Prosty, kolorowy logger do Node.js oparty o `chalk`.  
 Wspiera kolorowanie HEX i nazwane kolory. Idealny do twoich projektów CLI / botów / serwerów.  
@@ -6,7 +6,7 @@ Zero zbędnych rzeczy – szybki, czytelny, elastyczny.
 
 ---
 
-## ?? Instalacja
+## 🚀 Instalacja
 
 ```sh
 npm install widmo-logger
@@ -34,7 +34,7 @@ log.error ('Wystąpił błąd');
 
 ---
 
-## ?? API
+## 📚 API
 
 Dostępne metody:
 
@@ -56,7 +56,7 @@ label (string) – własna etykieta (tylko dla custom)
 
 ---
 
-?? Dostępne kolory
+## 🎨 Dostępne kolory
 
 Nazwy kolorów (chalk):
 
@@ -92,7 +92,7 @@ i dowolny inny kolor HEX np. #FFA500
 
 ---
 
-?? Zależności
+## 📋 Zależności
 
 [chalk](https://github.com/chalk/chalk)
 Instalowany automatycznie razem z widmo-logger
@@ -101,6 +101,6 @@ Instalowany automatycznie razem z widmo-logger
 
 ---
 
-?? Licencja
+## 🧾 Licencja
 
 MIT
