@@ -1,0 +1,26 @@
+{
+  "name": "widmo-logger",
+  "version": "1.0.1",
+  "description": "github.com/Wldmo/widmo-logger",
+  "main": "logger.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wldmo/Logger.git"
+  },
+  "keywords": [],
+  "type": "commonjs",
+  "author": "widmo",
+  "licenses": [
+    {
+       "type": "MIT",
+       "url": "https://opensource.org/licenses/MIT"
+    }
+  ],
+  "dependiencies": {
+    "chalk": "^5.3.0"
+  },
+  "bugs": {
+    "url": "https://github.com/wldmo/Logger/issues"
+  },
+  "homepage": "https://github.com/wldmo/Logger#readme"
+}
